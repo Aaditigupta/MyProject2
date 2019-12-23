@@ -11,7 +11,6 @@ public class DepartmentDTO {
 
 	public DepartmentDTO() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public DepartmentDTO(int deptId, String deptName, List<EmployeeDTO> employees) {
