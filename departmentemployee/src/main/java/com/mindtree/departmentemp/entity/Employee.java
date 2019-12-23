@@ -59,7 +59,6 @@ public class Employee {
 		this.department = department;
 	}
 	public void setDepartment(int deptId) {
-		// TODO Auto-generated method stub
 		
 	}
 	

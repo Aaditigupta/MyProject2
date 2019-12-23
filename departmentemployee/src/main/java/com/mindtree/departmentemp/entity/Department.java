@@ -20,7 +20,6 @@ public class Department {
 
 	public Department() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Department(int deptId, String deptName, List<Employee> employees) {
